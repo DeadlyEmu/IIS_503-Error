@@ -1,8 +1,11 @@
 # IIS_503-Error
 
 1.Restore SQL backup
+
 2.Update appsettings.json with new SQL string(commented out current sensitive details.)
+
 3.Start debugging under IIS Express. 
+
 4.Run PS1 file which will keep hitting API
 
 
